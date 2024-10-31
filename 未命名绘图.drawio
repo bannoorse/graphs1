@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2024-10-31T12:56:02.888Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 SE 2.X MetaSr 1.0" etag="sI51g_Io51AO_b70QR-H" version="24.6.5" type="github">
+  <diagram name="第 1 页" id="m8SUruJlV-Z-Q0JpIlp9">
+    <mxGraphModel dx="794" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="200" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-2" value="app.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="180" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-3" value="/birds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-4" value="/fishes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-6" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-7" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-8" value="birds.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-9" value="fishes.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="395" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-10" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="415" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-11" value="/about" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-13" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-14" value="/about" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="k6T0VY6b_Qj_Bq2KpP0a-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="410" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k6T0VY6b_Qj_Bq2KpP0a-4" target="k6T0VY6b_Qj_Bq2KpP0a-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="430" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-19" value="/fishes/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="268" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-20" value="/fishes/about" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="275" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="k6T0VY6b_Qj_Bq2KpP0a-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233.5" y="245.5" as="sourcePoint" />
+            <mxPoint x="406.5" y="244.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233.5" y="251" as="sourcePoint" />
+            <mxPoint x="410" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-23" value="/birds/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="305" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6T0VY6b_Qj_Bq2KpP0a-24" value="/birds/about/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="287" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
